@@ -49,9 +49,8 @@ I'm a Computer Engineer specializing in the offensive spectrum of cybersecurity.
 
 **OS & Environments**
 
-![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Internals](https://img.shields.io/badge/Windows_Internals-0052CC?style=for-the-badge&logo=windows&logoColor=white)
+
 
 **Specialized Techniques (Red Team)**
 
