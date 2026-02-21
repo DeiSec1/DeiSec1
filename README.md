@@ -18,10 +18,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiSec1&layout=compact&theme=tokyonight&border_color=00FF41&title_color=00FF41" align="right" width="350px"/>
 </div>
 
-- **Role**: Ingeniero en Informática & Técnico Analista Programador.
+- **Role**: Ingeniero en Informática
 - **Focus**: Windows/Linux Internals & Evasion Techniques.
 - **Certification**: **eJPT Certified Professional**.
-- **Environment**: Custom EndeavourOS Setup.
 
 <br/>
 
@@ -50,7 +49,7 @@
 </p>
 
 - **Core Languages**: **C++** (Malware/Exploits), **Python** (Automation), **Bash**.
-- **Specialized Hardware**: **AWUS036ACM** (Wireless Auditing).
+
 
 ---
 
@@ -76,7 +75,4 @@
   </a>
 </p>
 
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i>
-</p>
 
