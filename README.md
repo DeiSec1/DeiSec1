@@ -9,9 +9,13 @@
     <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/CERTIFIED-eJPT-00599C?style=for-the-badge&logo=elearnsecurity&logoColor=white" alt="eJPT Certified" />
+</p>
+
 ### About Me
 
-I'm a Computer Engineer specializing in the offensive spectrum of cybersecurity. My core focus lies in simulating advanced threats (Red Teaming), developing custom malware in C++, and deeply understanding Windows and Linux internals to bypass EDR/AV defenses. I am driven by a problem-oriented mindset, continuous learning.
+I'm a Computer Engineer specializing in the offensive spectrum of cybersecurity. My core focus lies in simulating advanced threats (Red Teaming), developing custom malware in C++, and deeply understanding Windows and Linux internals to bypass EDR/AV defenses. I am an **eJPT (eLearnSecurity Junior Penetration Tester) Certified** professional driven by a problem-oriented mindset and continuous learning.
 
 **Currently:** Expanding my arsenal in advanced evasion techniques and custom malware development, while actively applying Red Team methodologies.
 
@@ -51,10 +55,6 @@ I'm a Computer Engineer specializing in the offensive spectrum of cybersecurity.
 
 **Specialized Techniques (Red Team)**
 
-![Malware Dev](https://img.shields.io/badge/Custom_Malware_Dev-B90000?style=for-the-badge)
-![EDR Evasion](https://img.shields.io/badge/EDR%2FAV_Evasion-000000?style=for-the-badge)
-![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-4B0082?style=for-the-badge)
-![Red Team Ops](https://img.shields.io/badge/Red_Team_Ops-8B0000?style=for-the-badge)
 ![Malware Dev](https://img.shields.io/badge/Custom_Malware_Dev-B90000?style=for-the-badge)
 ![EDR Evasion](https://img.shields.io/badge/EDR%2FAV_Evasion-000000?style=for-the-badge)
 ![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-4B0082?style=for-the-badge)
