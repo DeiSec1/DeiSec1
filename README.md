@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CERTIFIED-eJPT-blue?style=for-the-badge&logo=elearnsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white" />
 </p>
 
 ---
@@ -46,23 +45,13 @@
 </p>
 
 - **Core Languages**: **C++** (Malware/Exploits), **Python** (Automation), **Bash**.
-- **Hardware**: **AWUS036ACM** (Wireless Auditing).
+
 
 ---
 
-### 📊 Tactical Metrics
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeiSec1&theme=tokyonight&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeiSec1&show_icons=true&theme=tokyonight&border_color=00FF41&icon_color=00FF41&title_color=00FF41" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiSec1&layout=compact&theme=tokyonight&border_color=00FF41&title_color=00FF41" width="48%" />
-</p>
 
----
 
-### 📡 Encrypted Uplink
 <p align="center">
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-root@DeiSec-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
@@ -72,6 +61,3 @@
   </a>
 </p>
 
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i>
-</p>
