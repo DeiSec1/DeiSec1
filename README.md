@@ -53,19 +53,7 @@
 
 ---
 
-### 📊 Tactical Metrics
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeiSec1&theme=tokyonight&border=00FF41&fire=00FF41&sideNums=00FF41&sideLabels=00FF41" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeiSec1&show_icons=true&theme=tokyonight&border_color=00FF41&icon_color=00FF41&title_color=00FF41" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeiSec1&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 📡 Encrypted Uplink
 <p align="center">
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-root@DeiSec-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
