@@ -46,6 +46,8 @@ I'm a Computer Engineer specializing in the offensive spectrum of cybersecurity.
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E32213?style=for-the-badge&logo=mitre&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 **OS & Environments**
 
