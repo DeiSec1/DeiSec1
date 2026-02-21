@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a Computer Engineer specializing in the offensive spectrum of cybersecurity. My core focus lies in simulating advanced threats (Red Teaming), developing custom malware in C++, and deeply understanding Windows and Linux internals to bypass EDR/AV defenses. I am driven by a problem-oriented mindset, continuous learning, and the philosophy of "breaking to secure."
+I'm a Computer Engineer specializing in the offensive spectrum of cybersecurity. My core focus lies in simulating advanced threats (Red Teaming), developing custom malware in C++, and deeply understanding Windows and Linux internals to bypass EDR/AV defenses. I am driven by a problem-oriented mindset, continuous learning
 
 **Currently:** Expanding my arsenal in advanced evasion techniques and custom malware development, while actively applying Red Team methodologies.
 
