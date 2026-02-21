@@ -1,62 +1,82 @@
-# ⚡ root@DeiSec:~$ whoami
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Ingeniero+Inform%C3%A1tico;Red+Team+Specialist;Malware+Development+%26+Research;Offensive+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=root@DeiSec&fontSize=70&animation=fadeIn&fontColor=00FF41" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CERTIFIED-eJPT-blue?style=for-the-badge&logo=elearnsecurity&logoColor=white" alt="eJPT Certified">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Ingeniero+Inform%C3%A1tico;Red+Team+Specialist;Malware+Development;Offensive+Security+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CERTIFIED-eJPT-blue?style=for-the-badge&logo=elearnsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white" />
 </p>
 
 ---
 
-### 🖥️ System & Environment
-- **Specialization**: Offensive Security / Red Teaming
-- **Status**: **eJPT Certified Professional** 🎓
-- **Focus**: Windows/Linux Internals, Post-Exploitation, and Evasion Techniques.
+### ⚡ System Status: Operational
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiSec1&layout=compact&theme=tokyonight&border_color=00FF41&title_color=00FF41" align="right" width="350px"/>
+</div>
+
+- **Role**: Ingeniero en Informática & Técnico Analista Programador.
+- **Focus**: Windows/Linux Internals & Evasion Techniques.
+- **Certification**: **eJPT Certified Professional**.
+- **Environment**: Custom EndeavourOS Setup.
+
+<br/>
 
 ---
 
-### ☣️ Red Team & Malware Dev Skills
-- **Weaponization**: Custom malware development using **C++** and **Python**.
-- **Exploitation**: Advanced knowledge in Buffer Overflows, AV/EDR Evasion, and Payload Delivery.
-- **Post-Exploitation**: Lateral movement, privilege escalation, and persistence.
+### ☣️ Offensive Capabilities (Red Team)
+<details open>
+<summary><b>View Specialized Skillset</b></summary>
+<br/>
 
+| Category | Skills & Techniques |
+| :--- | :--- |
+| **Weaponization** | Custom Malware (C++), Droppers, Obfuscation. |
+| **Infiltration** | AV/EDR Evasion, Payload Delivery, Buffer Overflows. |
+| **Post-Exploitation** | Lateral Movement, Privilege Escalation, Persistence. |
+| **Infrastructure** | Red Team Ops, Active Directory Exploitation. |
+</details>
 
 ---
 
-### 🛠️ Core Tech Stack
-
+### 🛠️ Strategic Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,powershell,bash,linux,docker,git,github,reverse" />
+  </a>
 </p>
 
-- **Languages**: **C++** (Low-level malware & tools), **Python** (Automation & Exploits), **Bash**.
-- **Security Tools**: Metasploit Framework, Cobalt Strike (Knowledge), Empire, Nmap, Wireshark.
+- **Core Languages**: **C++** (Malware/Exploits), **Python** (Automation), **Bash**.
+- **Specialized Hardware**: **AWUS036ACM** (Wireless Auditing).
 
 ---
 
-### 🛡️ Areas of Expertise
-* **Red Teaming**: Simulating real-world attacks to test organizational resilience.
-* **Active Directory**: Enumeration and exploitation of AD environments.
-* **Malware Analysis**: Reverse engineering and behavioral analysis of malicious binaries.
-
----
-
-### 📊 System Activity
+### 📊 Tactical Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeiSec1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=00FF41&icon_color=00FF41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiSec1&layout=compact&theme=dark&border_color=00FF41"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeiSec1&theme=tokyonight&border=00FF41&fire=00FF41&sideNums=00FF41&sideLabels=00FF41" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeiSec1&show_icons=true&theme=tokyonight&border_color=00FF41&icon_color=00FF41&title_color=00FF41" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeiSec1&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-
-<p align="left">
-<a href="https://github.com/DeiSec1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DeiSec1" height="30" width="40" /></a>
-<a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="root@DeiSec" height="30" width="40" /></a>
+### 📡 Encrypted Uplink
+<p align="center">
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-root@DeiSec-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/DeiSec1">
+    <img src="https://img.shields.io/badge/GitHub-DeiSec1-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i>
+</p>
 
