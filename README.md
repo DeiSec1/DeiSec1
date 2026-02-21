@@ -1,10 +1,27 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=terminal&color=111111&height=150&section=header&text=root@DeiSec&fontSize=50&animation=fadeIn&fontColor=00FF41" />
+</p>
 
-# ⚡ root@DeiSec:~$ whoami
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Ingeniero+Informatico;Red+Team+Specialist;Malware+Development;Offensive+Security+Professional" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=false&width=600&lines=Ingeniero+Informatico;Red+Team+Specialist;Malware+Development)](https://git.io/typing-svg)
+<p align="center">
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-![eJPT](https://img.shields.io/badge/CERTIFIED-eJPT-00599C?style=for-the-badge&logo=elearnsecurity&logoColor=white)
-![EndeavourOS](https://img.shields.io/badge/OS-EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/CERTIFIED-eJPT-00599C?style=for-the-badge&logo=elearnsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Ingeniero Informático especializado en el espectro ofensivo de la ciberseguridad. Mi enfoque se centra en simular amenazas avanzadas (**Red Teaming**), el desarrollo de **malware** personalizado en C++ y el estudio profundo de los sistemas internos de Windows y Linux para superar defensas EDR/AV. Comprometido con el aprendizaje continuo y la mentalidad de "romper para asegurar".
 
 ---
 
@@ -49,9 +66,6 @@
 
 ---
 
-### 📡 Encrypted Uplink
-
-[![Discord](https://img.shields.io/badge/Discord-root@DeiSec-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-DeiSec1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiSec1)
-
-> *"The quieter you become, the more you are able to hear."*
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i>
+</p>
